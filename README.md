@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- 헤더 배너 -->
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:9f87ff,100:ffff00&height=200&section=header&fontSize=40&fontColor=ffffff&fontAlign=70&fontAlignY=30&animation=fadeIn" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:ffff00,100:ffff00&height=200&section=header&fontSize=40&fontColor=ffffff&fontAlign=70&fontAlignY=30&animation=fadeIn" 
     width="100%" 
     style="max-width:100%; height:auto;"
   />
