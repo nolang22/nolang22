@@ -11,12 +11,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ <!-- &text=Nolang --> 
 -->
-<!-- 헤더 배너 -->
 <!-- 헤더 배너 -->
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:ffe400,100:ffe997&height=200&section=header <!-- &text=Nolang --> &fontSize=40&fontColor=ffffff&fontAlign=70&fontAlignY=30&animation=fadeIn" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:ffe400,100:ffe997&height=200&section=header&fontSize=40&fontColor=ffffff&fontAlign=70&fontAlignY=30&animation=fadeIn" 
     width="100%" 
     style="max-width:100%; height:auto;"
   />
