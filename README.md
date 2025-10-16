@@ -25,31 +25,6 @@ Here are some ideas to get you started:
 
 
 <!-- 테이블 1: GitHub Stats | 연락처 / Velog / GitHub -->
-<table align="center" style="width: 100%; max-width: 1000px; border-collapse: collapse; text-align: center; margin-bottom: 0;">
-  <tr>
-    <!-- GitHub Stats -->
-    <td style="padding: 10px; vertical-align: top; width: 50%;">
-      <div style="box-shadow: 0 6px 15px rgba(0,0,0,0.15); border-radius: 15px; overflow: hidden;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Kitbomin&show_icons=true&theme=radical&hide_border=false&border_radius=15" 
-             style="width: 100%; max-width: 450px; display:block; border-radius:15px;" />
-      </div>
-    </td>
-    <!-- 연락처 / Velog / GitHub -->
-    <td style="padding: 10px; vertical-align: top; width: 50%;">
-  <div style="box-shadow: 0 6px 15px rgba(0,0,0,0.15); border-radius: 15px; padding: 15px;">
-    <div align="center" style="font-size: 14px;">
-      <div style="margin-bottom: 10px;">
-        <a href="https://velog.io/@zzxxcc1433/posts" target="_blank">
-          <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" />
-        </a>
-        <a href="https://github.com/Kitbomin" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
-        </a>
-      </div>
-      <div>Email: <a href="mailto:zzxxcc1433@naver.com">zzxxcc1433@naver.com</a></div>
-    </div>
-  </div>
-</td>
 
   </tr>
 </table>
