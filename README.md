@@ -26,9 +26,6 @@ Here are some ideas to get you started:
 
 <!-- 테이블 1: GitHub Stats | 연락처 / Velog / GitHub -->
 
-  </tr>
-</table>
-
 <!-- 테이블 2: Top Languages Compact | 스택 배지 -->
 <table align="center" style="width: 100%; max-width: 1000px; border-collapse: collapse; text-align: center; margin-top: 0;">
   <tr>
@@ -74,9 +71,10 @@ Here are some ideas to get you started:
       </div>
     </td>
   </tr>
-</table>
+</table> -->
 
 ---
 
 ![night green version](profile-3d-contrib/profile-night-green.svg)
+
 
