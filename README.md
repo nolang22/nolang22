@@ -21,6 +21,6 @@ Here are some ideas to get you started:
   />
 </div>
 <div>
- <h1 style="font-size: 40px">🍔</h1>
+ <h1 style="font-size: 400px">🍔</h1>
 </div>
 
