@@ -19,8 +19,6 @@ Here are some ideas to get you started:
     width="100%" 
     style="max-width:100%; height:auto;"
   />
- <p style=" font-size: 50px;>🍔</p>
- <p>🍟</p>
- <p>하하하</p>
+ <h1>🍔</h1>
 </div>
 
