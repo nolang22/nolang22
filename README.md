@@ -20,7 +20,4 @@ Here are some ideas to get you started:
     style="max-width:100%; height:auto;"
   />
 </div>
-<div>
- <h1 style="font-size: 400px;">🍔</h1>
-</div>
 
